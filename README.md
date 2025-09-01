@@ -1,0 +1,15 @@
+# cd frontend
+# npm start
+
+
+# Login Credentials:
+
+ # System Administrater
+   # username: sysadmin
+   # password: Sys@dmin1
+# Store Owner
+   # username: storeowner1
+   # password: St0re@wner1
+# Normal user
+   # username: normaluser1
+   # password: Norm@luser1
